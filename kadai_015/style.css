@@ -11,12 +11,12 @@ body {
 }
 h1 {
   font-family: "Noto Sans JP", sans-serif;
-  font-optical-sizing: 40px;
+  font-optical-sizing: 2rem;
   font-style: normal;
   letter-spacing: 1.2em;
   text-shadow: 2px 2px 2px gray;
   border-bottom: solid 3px rgb(115, 115, 114)
 }
-#child > p {
+#basic > p {
   font-weight: bold;
 }
